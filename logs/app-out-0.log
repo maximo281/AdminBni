@@ -1,0 +1,11 @@
+[0mGET / [32m200 [0m72.456 ms - 232[0m
+[0mGET / [32m200 [0m38.377 ms - 2369[0m
+[0mGET /css/style.css [32m200 [0m385.875 ms - 32[0m
+[0mGET /images/layout/favicon.png [33m404 [0m11.108 ms - 2369[0m
+[0mGET /images/layout/logo_@1x.png [33m404 [0m2.487 ms - 2369[0m
+[0mGET / [36m304 [0m6.162 ms - -[0m
+[0mGET /css/style.css [32m200 [0m13.754 ms - 29[0m
+[0mGET /images/layout/logo_@1x.png [33m404 [0m2.778 ms - 2369[0m
+[0mGET / [36m304 [0m3.664 ms - -[0m
+[0mGET /images/layout/logo_@1x.png [33m404 [0m2.378 ms - 2369[0m
+[0mGET /css/style.css [31m500 [0m22.847 ms - 2369[0m
